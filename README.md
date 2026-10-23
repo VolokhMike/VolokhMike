@@ -1,9 +1,8 @@
-# Hi, I'm Mykhailo Volokh 👋
+# Hi, I'm Sonny 👋
 
-**Junior Python Backend Developer** · interested in IT security · Lüneburg, Germany 🇩🇪 (from Ukraine 🇺🇦)
+**Junior Python Backend Developer** · interested in IT security
 
 I taught myself backend development and have about 2 years of hands-on Python experience.
-I'm a student at the Berufliches Gymnasium Technik (Georg-Sonnin-Schule, Lüneburg).
 I like building the things users don't see: APIs, authentication and databases.
 
 ### Currently
