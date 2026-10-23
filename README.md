@@ -38,4 +38,4 @@ Ukrainian (native) · Russian (native) · Polish (fluent) · English (B1+) · Ge
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykhailo-volokh-617857345/)
 [![E-Mail](https://img.shields.io/badge/E--Mail-mikimv09%40gmail.com-1d4ed8?style=flat-square&logo=gmail&logoColor=white)](mailto:mikimv09@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-volokhmike.github.io-1d4ed8?style=flat-square&logo=githubpages&logoColor=white)](https://volokhmike.github.io/)
+
